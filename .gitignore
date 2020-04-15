@@ -1,7 +1,6 @@
 overview.txt
 .vscode
 .ipynb_checkpoints
-pandas_to_json_testing.ipynb
-Incidents_by_Days.png
-Incidents_by_Category.png
+jupyter_testing
 __pycache__
+images
